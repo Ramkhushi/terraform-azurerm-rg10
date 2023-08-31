@@ -4,3 +4,8 @@ output "rg01" {
 output "rg02" {
   value = var.location
 }
+
+
+output "test" {
+   value = "This is just a test message"
+}
